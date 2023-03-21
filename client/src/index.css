@@ -1,0 +1,6 @@
+/* used for writing universal css */
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
